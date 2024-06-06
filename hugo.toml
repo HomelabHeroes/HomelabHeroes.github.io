@@ -1,0 +1,4 @@
+baseURL = 'https://homelabheroes.com/'
+languageCode = 'en-us'
+title = 'HomelabHeroes.com'
+theme = 'PaperMod'

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on HomelabHeroes.com</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on HomelabHeroes.com</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 16:30:58 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building This Website</title>
+      <link>http://localhost:1313/posts/building-this-website/</link>
+      <pubDate>Thu, 06 Jun 2024 16:30:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/building-this-website/</guid>
+      <description>This is my first real attempt at building and hosting a website, so I am going to do my best to document this as I go.
+First, I&amp;rsquo;m going to give a bit of an oversimplified explanation of the technical stack that will be (or by the time this is posted, is being) used:
+Hugo - This is the framework we will use for generating our static site. git / GitHub - Version control system/repository for the codebase as we develop.</description>
+    </item>
+  </channel>
+</rss>
